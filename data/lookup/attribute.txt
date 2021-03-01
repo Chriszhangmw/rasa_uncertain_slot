@@ -1,0 +1,12 @@
+ip
+name
+business
+city
+datacenter_ip
+longitude
+latitude
+region
+cpu
+memory
+disk
+server_ip
